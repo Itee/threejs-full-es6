@@ -87,6 +87,7 @@ import { DefaultLoadingManager } from '../loaders/LoadingManager.js'
 import { ShaderLib } from '../renderers/shaders/ShaderLib.js'
 import { UniformsUtils } from '../renderers/shaders/UniformsUtils.js'
 import { LoaderUtils } from '../loaders/LoaderUtils.js'
+import { PropertyBinding } from '../animation/PropertyBinding.js'
 import { AnimationUtils } from '../animation/AnimationUtils.js'
 
 /**
