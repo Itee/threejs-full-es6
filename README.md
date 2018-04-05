@@ -3,6 +3,9 @@ threejs-full-es6
 
 [![License][license-badge]][license-badge-url]
 
+# DEPRECATED: Use three-full instead #
+
+
 #### Extended Three JavaScript 3D library ####
 
 Three.js r90 come with lot of examples files, which are curently not usable as ES6 module. 
