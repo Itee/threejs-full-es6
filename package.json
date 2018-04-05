@@ -11,7 +11,8 @@
     "convert": "gulp convert-three",
     "build": "gulp build-three",
     "build-test": "rollup -c configs/rollup.tests.conf.js",
-    "release": "gulp release"
+    "release": "gulp release",
+    "postinstall": "node post-install.js"
   },
   "repository": {
     "type": "git",
