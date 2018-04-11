@@ -3,7 +3,7 @@ threejs-full-es6
 
 [![License][license-badge]][license-badge-url]
 
-# DEPRECATED: Use three-full instead #
+# DEPRECATED: Use [three-full](https://github.com/Itee/three-full) instead #
 
 
 #### Extended Three JavaScript 3D library ####
